@@ -1,0 +1,4 @@
+from pptx import Presentation
+
+# Just a quick test to check if python-pptx works
+print("✅ python-pptx is installed and working!")
