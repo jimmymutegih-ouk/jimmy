@@ -1,0 +1,19 @@
+
+STEPS ON HOW TO INSTALL WSL ALL THE WAY TO GITHUB
+0) PowerShell (Admin)
+1) Install WSL + Ubuntu
+2) Update Ubuntu
+3) Python 3.12
+4) VS Code + Extensions
+5) Project folder
+6) Virtual env + pip
+7) Install Jac
+8) Open in VS Code
+9) Hello Jac
+10) byLLM + Gemini
+11) Tiny API (optional)
+12) Git + GitHub
+13) Daily workflow
+14) Troubleshooting
+Windows-only (no WSL)
+Publish on GitHub Pages
